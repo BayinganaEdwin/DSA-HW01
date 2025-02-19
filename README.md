@@ -2,7 +2,7 @@
 
 This project implements a Sparse Matrix in Python, using a dictionary based approach to optimize storage and operations efficiently.
 
-## How to run
+## How to install and run
 
 1. Clone the repo
    ```sh
