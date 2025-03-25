@@ -2,7 +2,7 @@ class Sparse:
     def __init__(self, num_rows=None, num_cols=None, matrix_file_path=None):
         self.rows = 0
         self.cols = 0
-        self.data = {}  # Dictionary to store non-zero values
+        self.data = {}  # Dictionary to store non-zero values 
 
         if matrix_file_path:
             self.load_from_file(matrix_file_path)
