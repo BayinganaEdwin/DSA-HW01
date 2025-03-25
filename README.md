@@ -1,6 +1,6 @@
 # Sparse Matrix - Python
 
-This project implements a Sparse Matrix in Python, using a dictionary-based approach to optimize storage and operations efficiently.
+This project implements a Sparse Matrix in Python, using a dictionary based approach to optimize storage and operations efficiently.
 
 ## How to install and run
 
